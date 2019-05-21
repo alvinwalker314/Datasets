@@ -39,7 +39,7 @@ Daimler Armored Car,Armored Car,"Daimler Motor Company, England, United Kingdom"
 Daimler Scout Car 'Dingo',Armored Car,"Daimler Motor Company, England, United Kingdom",United Kingdom
 DUKW,Transport,General Motors Corporation,United States
 FT-17,Light Tank,Renault S.A.,France
-G31,Transport,Bssing-NAG,Germany
+G31,Transport,,Germany
 H35,Light Tank,Hotchkiss et Cie,France
 Hobart's Funnies,Other,,United Kingdom
 Hornisse/Nashorn,Tank Destroyer,Deutsche-Eisenwerke AG,Germany
@@ -52,20 +52,20 @@ Infantry Mk III Valentine,Infantry Tank,"Vickers-Armstrongs, Limited",United Kin
 Infantry Mk IV Churchill,Infantry Tank,"Vauxhall Motors Ltd., Luton, Bedfordshire, England",United Kingdom
 Iosif Stalin,Heavy Tank,"Kirov Factory, UZTM, Yekaterinburg, Russia",Russia
 Jagdpanther,Tank Destroyer,,Germany
-Jagdpanzer 38(t),Tank Destroyer,Ceskomoravskà Kolben-Danek,Czechoslovakia
+Jagdpanzer 38(t),Tank Destroyer,,Czechoslovakia
 Jeep,Other,Willys-Overland Motors/Ford Motor Company,United States
-K800,Motorcycle,ZÙnder und Apparatebau GmbH,Germany
+K800,Motorcycle,,Germany
 Kangaroo,Other,,Canada
 Karl-Ger_t,Self-Propelled Gun,Rheinmetall AG,Germany
 Kfz. 305 Blitz,Transport,Adam Opel AG,Germany
 Kliment Voroshilov,Heavy Tank,"Kirov Plant Kirov Factory, Leningrad, Russia",Russia
-KS600,Motorcycle,ZÙnder und Apparatebau GmbH,Germany
-KS750,Motorcycle,ZÙnder und Apparatebau GmbH,Germany
-KÙbelwagen,Other,Volkswagen,Germany
+KS600,Motorcycle,,Germany
+KS750,Motorcycle,,Germany
+,Other,Volkswagen,Germany
 L3,Tankette,,Italy
 L6/40,Light Tank,"Fiat Ansaldo, Turin, Italy",Italy
 Landing Vehicle Tracked,Other,,United States
-Leichter Panzersp_hwagen,Armored Car,"Eisenwerk WeserhÙtte, Bad Oeynhausen, Germany",Germany
+Leichter Panzersp_hwagen,Armored Car,,,Germany
 Light Amphibious Tank,Tankette,"Vickers-Armstrongs, Limited",United Kingdom
 Light Armored Car (Aust) 'Rover',Armored Car,,Australia
 Light Mk VII Tetrarch,Light Tank,"Metro-Cammell Carriage & Wagon Co., England, UK",United Kingdom
@@ -96,7 +96,7 @@ Medium Mark A Whippet,Medium Tank,William Foster and Company,United Kingdom
 MWD,Transport,Bedford Vehicles,United Kingdom
 Panzerj_ger Tiger (P) 'Elefant',Tank Destroyer,"Porsche Aktiengesellschaft, Germany",Germany
 PZInz 130,Tankette,Panstwowe Zaklady Inzynieryjne,Poland
-PzKpfw 38(t),Light Tank,Ceskomoravskà Kolben-Danek,Czechoslovakia
+PzKpfw 38(t),Light Tank,,Czechoslovakia
 PzKpfw I,Light Tank,,Germany
 PzKpfw II,Light Tank,,Germany
 PzKpfw III,Medium Tank,,Germany
@@ -106,7 +106,7 @@ PzKpfw Tiger Ausf. B 'Tiger II',Heavy Tank,"Henschel und Sohn GmbH, Kassel, Germ
 PzKpfw V Panther,Medium Tank,,Germany
 PzKpfw VI Ausf. E 'Tiger I',Heavy Tank,"Henschel und Sohn GmbH, Kassel, Germany",Germany
 R35,Light Tank,Renault,France
-R75,Motorcycle,"Bayerische Motoren Werke AG, MÙnchen, Germany",Germany
+R75,Motorcycle,,Germany
 Ram,Medium Tank,"Canadian Tank Arsenal, Montreal Locomotive Works",Canada
 RL 45,Motorcycle,Harley-Davidson Incorporated,United States
 Scout Car S1 (American),Armored Car,Ford Australia,Australia
@@ -132,10 +132,10 @@ Semovente 75/34,Self-Propelled Gun,Fiat,Italy
 Semovente 90/53,Tank Destroyer,Fiat,Italy
 Sergei Mironovich Kirov,Heavy Tank,"Kirov Factory No. 100, Leningrad, Russia",Russia
 Sexton,Self-Propelled Gun,"Canadian Tank Arsenal, Montreal Locomotive Works",Canada
-SokÑl 1000,Motorcycle,Panstwowe Zaklady Inzynieryjne,Poland
+,Motorcycle,Panstwowe Zaklady Inzynieryjne,Poland
 Sturer Emil,Tank Destroyer,,Germany
-SturmgeschÙtz III,Assault Gun,Daimler-Benz AG,Germany
-SturmgeschÙtz IV,Assault Gun,Krupp-Grusonwerk AG,Germany
+,Assault Gun,Daimler-Benz AG,Germany
+,Assault Gun,Krupp-Grusonwerk AG,Germany
 Sturmpanzer,Assault Gun,"Altm_rkische Kettenwerke, Berlin, Germany",Germany
 SU-100,Tank Destroyer,Uralmash,Russia
 SU-76,Self-Propelled Gun,,Russia
